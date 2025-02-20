@@ -1,0 +1,18 @@
+import discord
+from discord.ext import commands
+
+
+mod = commands.Bot(command_prefix=".", self_bot=True)
+token = "MTIyNjk4NDAyMTI2ODEwNzMzMg.GOSZJh.7mX5I5La_jp-tcFzHpYgee9e6A2ec4lqQSTwnE"
+allowed_ids = [903383862539845632]
+
+@mod.event
+async def on_message(message):
+  if message.author.id in allowed_ids:
+    message.add_reaction("❤️")
+
+
+
+
+
+mod.run(token)
